@@ -1,3 +1,3 @@
 # hello-world
-becoming familiar with how GitHub works
-this is my first time using GitHub
+I'm becoming familiar with how GitHub works.
+This is my first time using GitHub.
